@@ -4,6 +4,6 @@ export type anyFns = Array<anyFn>;
 /* eslint-enable @typescript-eslint/no-explicit-any */
 
 export type example = {
-    str: string;
-    num: number;
+  str: string;
+  num: number;
 };
